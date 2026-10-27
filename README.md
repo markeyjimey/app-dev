@@ -8,7 +8,7 @@ My first repository
    
 *peter*  
 
-* spider black*
+* spider black
  
 *peter2*
 
