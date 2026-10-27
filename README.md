@@ -4,4 +4,4 @@ My first repository
 
 ### My favorite movie
 
-  **Spiderman
+  *Spiderman*
